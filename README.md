@@ -1,3 +1,3 @@
 
-![Example Photo](images/1.jpg)
+![Example Photo](images/1.png)
 
